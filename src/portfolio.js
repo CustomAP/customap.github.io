@@ -37,6 +37,7 @@ const socialMediaLinks = {
   github: "https://github.com/pawar-ashish/",
   linkedin: "https://www.linkedin.com/in/ashish-a-pawar/",
   gmail: "ashishpawar2015.ap@gmail.com",
+  medium: "https://medium.com/@pawar-ashish",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
