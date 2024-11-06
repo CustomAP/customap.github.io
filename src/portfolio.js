@@ -363,7 +363,7 @@ const talkSection = {
     },
     {
       title: "Hack OHI/O",
-      subtitle: "Judge",
+      subtitle: "Hackathon Judge",
       image: require("./assets/images/hackohio.png"),
       slides_url: "https://bit.ly/saadpasta-slides",
       button_title: "Hackathon Info",
@@ -371,7 +371,7 @@ const talkSection = {
     },
     {
       title: "AI/ATL @ Georgia Tech",
-      subtitle: "Judge",
+      subtitle: "Hackathon Judge",
       image: require("./assets/images/ai_atl.avif"),
       slides_url: "https://bit.ly/saadpasta-slides",
       button_title: "Hackathon Info",
