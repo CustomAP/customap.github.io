@@ -386,6 +386,14 @@ const talkSection = {
       button_title: "Journal Info",
       event_url:
         "https://www.igi-global.com/journals/open-access/reviewers/international-journal-intelligent-information-technologies/1089"
+    },
+    {
+      title: "Hack This Fall",
+      subtitle: "Hackathon Judge",
+      image: require("./assets/images/hackthisfall.jpg"),
+      slides_url: "https://bit.ly/saadpasta-slides",
+      button_title: "Hackathon Info",
+      event_url: "https://hackathon.hackthisfall.tech/virtual"
     }
   ],
   display: true // Set false to hide this section, defaults to true
