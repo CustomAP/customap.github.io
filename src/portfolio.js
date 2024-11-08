@@ -341,6 +341,12 @@ const blogSection = {
       image: require("./assets/images/data_science_central.png"),
       description:
         "Best practices for structuring large datasets in Retrieval-Augmented Generation (RAG)"
+    },
+    {
+      url: "https://medium.com/@pawar-ashish/oncreate-vs-onstart-in-android-in-depth-analysis-6b27661958d0",
+      title: "Medium",
+      image: require("./assets/images/medium.png"),
+      description: "onCreate() vs onStart() in Android: In-depth analysis"
     }
   ],
   display: true // Set false to hide this section, defaults to true
